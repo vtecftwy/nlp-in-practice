@@ -1,0 +1,8 @@
+md5: 526ed25e6213378aefdf19a6cd84278a
+outs:
+- cache: true
+  md5: d751713988987e9331980363e24189ce.dir
+  metric: false
+  path: data-processed
+  persist: false
+wdir: .
